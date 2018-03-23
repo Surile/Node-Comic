@@ -16,6 +16,4 @@
 npm install || yarn install
 
 npm statr || yarn start
-
-npm run gp
 ```
