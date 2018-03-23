@@ -1,7 +1,7 @@
 # 技术栈
 
-[![cheerio](https://travis-ci.org/ericjjj/smeditor.svg?branch=master)](https://github.com/cheeriojs/cheerio)
-[![superagent](https://codeclimate.com/github/ericjjj/smeditor/badges/gpa.svg](https://github.com/visionmedia/superagent)
+[![cheerio](https://travis-ci.org/ericjjj/smeditor.svg)](https://github.com/cheeriojs/cheerio)
+[![superagent](https://codeclimate.com/github/ericjjj/smeditor/badges/gpa.svg)](https://github.com/visionmedia/superagent)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 > ✎ NodeJs 爬虫
